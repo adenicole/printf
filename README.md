@@ -79,6 +79,6 @@ These are all the tasks of this project, the ones that are completed link to the
 
 ---
 #Author: 
-![Oluwatimilehin Bello](https://github.com/Timilehin-bello)
+[Oluwatimilehin Bello](https://github.com/Timilehin-bello)
 
-![Nicole Adeyemi](https://github.com/adenicole)
+[Nicole Adeyemi](https://github.com/adenicole)
