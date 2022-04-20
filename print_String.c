@@ -37,7 +37,7 @@ int print_String(va_list l)
  * Return: true or false
  */
 
-_Bool isNonAlphaNumeric(char c) 
+int isNonAlphaNumeric(char c) 
 {
 	return ((c > 0 && c < 32) || c >= 127);
 }
@@ -49,6 +49,7 @@ _Bool isNonAlphaNumeric(char c)
  * @lowercase: flag if hexa values need to be lowercase
  * Return: result string
  */
+
 char *convert(unsigned long int num, int base, int lowercase)
 {
 	static char *rep;
