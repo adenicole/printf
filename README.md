@@ -78,7 +78,5 @@ These are all the tasks of this project, the ones that are completed link to the
 * All the above options work well together.
 
 ---
-#Author: 
-[Oluwatimilehin Bello](https://github.com/Timilehin-bello)
-
-[Nicole Adeyemi](https://github.com/adenicole)
+# Author: 
+[Oluwatimilehin Bello](https://github.com/Timilehin-bello) and [Nicole Adeyemi](https://github.com/adenicole)
